@@ -18,10 +18,17 @@ Put the preprocessed data in dir:
 data/preprocess/
 ```
 
-install requirement
+install requirement:
 ```bash
 pip install -r requirements.txt
 ```
+
+prepare experiments directory:
+```bash
+mkdir src/experiments/exp_1/checkpoints
+mkdir src/experiments/exp_1/predictions
+```
+
 
 ## Run an example
 To run an example:
