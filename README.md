@@ -1,5 +1,5 @@
-# SVP-transformer
-The code of SVP-transformer.
+# SVP-T
+This is the offical code of paper "SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification".
 ## Setup
 ```bash
 pip install -r requirements.txt
