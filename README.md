@@ -1,5 +1,15 @@
 # SVP-T
 This is the offical code of paper "SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification".
+If you find this code or any of the ideas in the paper useful, please consider citing:
+```bash
+@inproceedings{Zuoaaai2023,
+ title={SVP-T: A Shape-Level Variable-Position Transformer for Multivariate Time Series Classification},
+ booktitle={AAAI},
+ author={Zuo, Rundong and Li, Guozhong and Choi, Byron and S Bhowmick, Sourav and Mah, Daphne Ngai-Yin and Wong, Grace Lai-Hung},
+ year={2023},
+ pages={11497-11505}
+}
+```
 ## Setup
 ```bash
 pip install -r requirements.txt
